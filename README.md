@@ -32,8 +32,7 @@ App pensada para controlar la imagen que va a desplegar una matriz LED mediante 
 
 ## Demo
 
-
-
+https://github.com/user-attachments/assets/9edee9cb-0dc2-4e34-a7a6-950b9df2d095
 
 ## Authors
 
